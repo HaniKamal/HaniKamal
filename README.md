@@ -29,7 +29,7 @@ beginner in Turkish..
 </p>
 ### 📊 Stats
 
-![Hani's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaniKamal&show_icons=true&theme=gruvbox)
+![Hani's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanikamal&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=hanikamal&theme=gruvbox&border_radius=4.5) -->
 
