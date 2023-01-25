@@ -28,10 +28,4 @@ beginner in Turkish..
 <a href="https://www.linkedin.com/in/hanikamal/"><img src="https://img.shields.io/badge/-Hani%20Kamal-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
 </p>
 
-### 📊 &nbsp;Stats
 
-![Hani's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanikamal&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=hanikamal&theme=gruvbox&border_radius=4.5) -->
-
-#
