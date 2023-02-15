@@ -3,7 +3,7 @@
 **`Digital Craftsman (Developer/Engineer)`**
 
 A tech-savvy and driven master's graduate with distinction in computer science, a passion for software development and
-data science, and hands-on experience in Python, AWS, SQL, JavaScript, web development, data analysis, machine learning,
+data science, and hands-on experience in Python, AWS, AZURE, SQL, JavaScript, web development, data analysis, machine learning,
 and project management, Skilled as software developer and Environmental Engineer. Fluent in English, Arabic, and
 beginner in Turkish..
 
